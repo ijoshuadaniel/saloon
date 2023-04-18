@@ -1,0 +1,16 @@
+{
+    "development": {
+        "username": "root",
+        "password": "",
+        "database": "saloon",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "",
+        "database": "saloon",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
