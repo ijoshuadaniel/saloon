@@ -1,0 +1,15 @@
+.header {
+    width: 100vw;
+    height: 6vh;
+    background: #108dc7;
+    background: -webkit-linear-gradient(to left, #108dc7, #ef8e38);
+    background: linear-gradient(to left, #108dc7, #ef8e38);
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    text-transform: uppercase;
+    font-weight: bolder;
+    position: fixed;
+    z-index: 1;
+}

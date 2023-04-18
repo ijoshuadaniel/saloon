@@ -1,0 +1,20 @@
+.wrapper {
+    &-container {
+        display: flex;
+    }
+
+    &-sidemenu {
+        width: 15vw;
+        height: 90vh;
+        margin-top: 6vh;
+        position: fixed;
+    }
+
+    &-children {
+        margin-top: 6vh;
+        width: 100% !important;
+        padding: 1rem;
+        overflow-y: scroll;
+        margin-left: 15vw;
+    }
+}
